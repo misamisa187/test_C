@@ -3,6 +3,11 @@
 
 int main()
 {
-    printf("test\n");
+    int i = 0;
+    while(i < 5)
+    {
+        i++;
+        printf("t\n");
+    }
     return 0;
 }
