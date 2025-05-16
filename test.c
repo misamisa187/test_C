@@ -7,7 +7,8 @@ int main()
     while(i < 5)
     {
         i++;
-        printf("t\n");
+        printf("t");
     }
     return 0;
 }
+
